@@ -1,0 +1,35 @@
+.article-section:first-child {
+  font-weight: bold;
+}
+
+.article-section:last-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+button {
+  display: block;
+  width: 100px;
+  margin: 5px;
+}
+
+button#add-rounding {
+  border-radius: 50px;
+}
+
+.ihulk {
+  font-size: 3em;
+}
+
+.turnBlue {
+  color: blue;
+}
+
+.bord {
+  border: 3px dotted black;
+}
+
+.roun {
+  border-radius: 25px;
+
+}
